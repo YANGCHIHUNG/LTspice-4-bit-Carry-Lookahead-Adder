@@ -1,9 +1,9 @@
 # LTspice-4-bit-Carry-Lookahead-Adder
 
 <p align="center">
-  <img src="log.png" alt="Log" width="30%">
-  <img src="Logic Circuit Diagram.png" alt="Logic Circuit Diagram" width="30%">
-  <img src="Simulation Waveform Plot.png" alt="Simulation Waveform Plot" width="30%">
+  <img src="images/log.png" alt="Log" width="30%">
+  <img src="images/Logic Circuit Diagram.png" alt="Logic Circuit Diagram" width="30%">
+  <img src="images/Simulation Waveform Plot.png" alt="Simulation Waveform Plot" width="30%">
 </p>
 
 This project contains the implementation of a 4-bit Carry Lookahead Adder (CLA) using LTspice. The files included are:
