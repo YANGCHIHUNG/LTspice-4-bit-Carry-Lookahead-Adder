@@ -6,6 +6,10 @@
   <img src="images/Simulation Waveform Plot.png" alt="Simulation Waveform Plot" width="30%">
 </p>
 
+## Course Information
+
+This repository is an assignment for the course "Advanced VLSI Design" at National Chung Hsing University.
+
 This project contains the implementation of a 4-bit Carry Lookahead Adder (CLA) using LTspice. The files included are:
 
 - `4-bit-CLA.asc`: The schematic diagram of the logic gates.
